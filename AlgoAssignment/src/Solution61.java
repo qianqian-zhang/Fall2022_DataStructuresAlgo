@@ -1,4 +1,8 @@
 //solution for 61. Rotate List
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -9,6 +13,10 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 class Solution61 {
     public ListNode rotateRight(ListNode head, int k) {
         //base case
