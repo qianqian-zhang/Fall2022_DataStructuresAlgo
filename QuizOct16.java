@@ -1,2 +1,0 @@
-public class QuizOct16 {
-}
