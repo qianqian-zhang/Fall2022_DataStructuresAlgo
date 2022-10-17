@@ -1,4 +1,4 @@
-package assignment3;
+package AlgoAssignment.assignment3;
 
 public class Problem46 {
     //46. Permutations

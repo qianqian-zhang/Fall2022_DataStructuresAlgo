@@ -1,4 +1,4 @@
-//solution for 203. Remove Linked List Elements
+package AlgoAssignment.Assignment1;//solution for 203. Remove Linked List Elements
 
     /**
      * Definition for singly-linked list.

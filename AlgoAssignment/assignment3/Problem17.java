@@ -1,4 +1,4 @@
-package assignment3;
+package AlgoAssignment.assignment3;
 
 public class Problem17 {
     //17. Letter Combinations of a Phone Number
