@@ -1,4 +1,4 @@
-//solution for 725. Split Linked List in Parts
+package AlgoAssignment.Assignment1;//solution for 725. Split Linked List in Parts
 
 /**
  * Definition for singly-linked list.

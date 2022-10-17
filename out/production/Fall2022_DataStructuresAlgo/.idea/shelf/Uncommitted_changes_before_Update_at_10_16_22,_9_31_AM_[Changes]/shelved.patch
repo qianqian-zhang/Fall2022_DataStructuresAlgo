@@ -1,0 +1,12 @@
+Index: QuizOct16.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/QuizOct16.java b/QuizOct16.java
+new file mode 100644
+--- /dev/null	(date 1665937898279)
++++ b/QuizOct16.java	(date 1665937898279)
+@@ -0,0 +1,2 @@
++public class QuizOct16 {
++}

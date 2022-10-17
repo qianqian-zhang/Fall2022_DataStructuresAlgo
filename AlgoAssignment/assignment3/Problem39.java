@@ -1,4 +1,4 @@
-package assignment3;
+package AlgoAssignment.assignment3;
 
 public class Problem39 {
     //39. Combination Sum

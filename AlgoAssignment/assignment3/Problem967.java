@@ -1,4 +1,4 @@
-package assignment3;
+package AlgoAssignment.assignment3;
 
 public class Problem967 {
     //967. Numbers With Same Consecutive Differences

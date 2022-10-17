@@ -1,4 +1,4 @@
-//solution for 1721. Swapping Nodes in a Linked List
+package AlgoAssignment.Assignment1;//solution for 1721. Swapping Nodes in a Linked List
 
 /*
  * Definition for singly-linked list.
