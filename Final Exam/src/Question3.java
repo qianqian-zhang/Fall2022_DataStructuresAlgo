@@ -14,7 +14,7 @@ public class Question3 {
         System.out.println(removeParentheses(str3));//""
     }
 
-    //time complexity: o(n)
+    //time complexity: o(m + n)
     public static String removeParentheses(String str) {
         StringBuilder sb = new StringBuilder();
         int count = 0; //count (s
