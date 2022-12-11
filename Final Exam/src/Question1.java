@@ -16,7 +16,7 @@ public class Question1 {
 
     }
 
-    //time complexity: o(nlogn) sc: o(n)
+    //time complexity: o(nlogn)
     public static List<List<String>> groupAnagram(String[] strs) {
         List<List<String>> ans = new ArrayList<>();
         HashMap<String, List<String>> map = new HashMap<>();

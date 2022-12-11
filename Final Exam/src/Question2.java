@@ -12,7 +12,7 @@ public class Question2 {
 
     }
 
-    //time complexity: o(m * n) sc: o(1)
+    //time complexity: o(m * n)
     public static int findIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
